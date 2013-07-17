@@ -1,0 +1,96 @@
+    1  pwd
+    2  pwd
+    3  ls
+    4  ls - F
+    5  ls- F
+    6  ls -F
+    7  ls -F
+    8  pwd
+    9  cd Pictures
+   10  pwd
+   11  cd /c/Users/Ayman
+   12  pwd
+   13  pwd
+   14  mkdir ususwc
+   15  sl
+   16  ls
+   17  ls -F
+   18  ch ususwc
+   19  cd ususwc
+   20  pwd
+   21  ususwc$ nano mynewfile.text
+   22  ususwc$ nano mynewfile.txt
+   23  ususwc nano mynewfile.txt
+   24  nano mynewfile.txt
+   25  ls
+   26  nano mynewfile.txt 
+   27  mynewfile.txt
+   28  nano mynewfile.txt
+   29  mynewfile.txt
+   30  nano mynewfile.txt 
+   31  notepade mynewfile.txt 
+   32  notepad mynewfile.txt 
+   33  cp mynewfile.txt data.txt
+   34  ls
+   35  mkdire temp
+   36  mkdir temp
+   37  mv mynewfile.txt temp/
+   38  ls
+   39  cd temp
+   40  ls
+   41  cd ../
+   42  pwd
+   43  ls
+   44  mv data.txt data_drucanyon_2013.txt
+   45  ls
+   46  mkdir backup
+   47  cp data_drucanyon_2013.txt backup/
+   48  cd backup
+   49  ls
+   50  cd ../
+   51  backup/
+   52  cd backup
+   53  ls
+   54  nano data_drucanyon_2013.txt 
+   55  cd ../
+   56  ls
+   57  caf.jpg
+   58  DataManager.dll 
+   59  data_
+   60  ls
+   61  ls
+   62  nano data_drucanyon_2013.txt 
+   63  ls
+   64  mv data_drucanyon_2013.txt data_greencanyon_2013.yxy
+   65  mv data_drucanyon_2013.txt data_greencanyon_2013.txt
+   66  ls
+   67  mv data_greencanyon_2013.yxy data_greencanyon_2013.txt 
+   68  ls
+   69  cat
+   70  cat data_greencanyon_2013.txt 
+   71  sort data_greencanyon_2013.txt 
+   72  sort --help
+   73  sort data_greencanyon_2013.txt -k 2
+   74  sort data_greencanyon_2013.txt -k 3
+   75  sort data_greencanyon_2013.txt -k 3 -n
+   76  sort data_greencanyon_2013.txt -k 3 -n > sorted_counts.txt
+   77  ls
+   78  cat sorted_counts.txt 
+   79  cat data_greencanyon_2013.txt 
+   80  tail -2 sorted_counts.txt 
+   81  head sorted_counts.txt 
+   82  head -1 sorted_counts.txt 
+   83  sort -- help
+   84  sort -- help
+   85  sort - help
+   86  sort -- help
+   87  sort -- help
+   88  sort --help
+   89  head -1 sorted_counts.txt 
+   90  cat sorted_counts.txt 
+   91  head -2 sorted_counts.txt 
+   92  sort data_greencanyon_2013.txt -k
+   93  sort data_greencanyon_2013.txt -k 3
+   94  sort data_greencanyon_2013.txt -k 3 -r
+   95  history
+   96  history >my_commands.txt
