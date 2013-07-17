@@ -6,3 +6,5 @@
 2013-02-21 bluejay 5
 2013-02-18 sparrow 7
 2013-02-21 bluejay 8
+
+#if the script is excusted from the command line
